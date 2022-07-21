@@ -1,0 +1,17 @@
+body{
+    font-family: Montserrat, sans-serif;
+    background-color: rgb(226, 129, 94);
+}
+.container{
+    user-select: none;
+    margin: 10% auto;
+    background: #ff893f;
+    color: #232324;
+    border-radius: 10px;
+    width: 50%;
+    text-align: left;
+    box-shadow: 0 25px 35px -5px rgba(0,0,0,.75);
+}
+.tes{
+    height: 3em;
+}

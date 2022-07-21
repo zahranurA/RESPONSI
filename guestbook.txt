@@ -1,0 +1,6 @@
+zahra|009|littleara06@gmail.com|Perempuan|INFORMATIKA|kp
+ara|9|zahranur13676@gmail.com|Perempuan|TEKNIK ELEKTRO|yk
+xznal|009|zahranur13676@gmail.com|Perempuan|INFORMATIKA|a
+ara|09|zahranur13676@gmail.com|Perempuan|INFORMATIKA|yk
+|||||
+p|1|zahranur13676@gmail.com|Perempuan|INFORMATIKA|yk
